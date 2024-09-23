@@ -1,33 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Alura Plus</title>
-    <meta charset=”UTF-8”>
-    <meta name=”viewport” content=”width=device-width, initial-scale=1”>
-<link rel=“stylesheet” href=”style.css”>
-</head>
-<body>
-</body>
-</html>
-:root{
---branco-principal:
-#FFFFFF;
---cinza-secundario:
-#C0C0C0;
---botao-azul: #167BF7;
---cor-de-fundo: #00030C;
-body {
-    background-color: var
-    (--cor-de-fundo);
-    }
-    <body>
+{:root { --branco-principal:
+  #ffffff;--cinza-secundario:
+  #C0C0C0;--botao-azul: #f716ac;--cor-de-fundo: #00030C;
+  }}
+  body {
+      background-color: var
+      (--cor-de-fundo); color: var(--branco-principal);
+      }
+      * {
 
-<h1>Com o Combo+, você pode aproveitar a Alura+ e o Alu-
-ra Língua por um preço único.</h1>
-
-</body>
-* {
-
-    margin: 0;
-    padding: 0;
-    }
+          margin: 0;
+          padding: 0;
+          }
